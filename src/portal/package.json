@@ -35,7 +35,7 @@
     "@angular/router": "^10.1.2",
     "@clr/angular": "^4.0.2",
     "@clr/core": "^4.0.2",
-    "@clr/icons": "^4.0.2",
+    "@clr/icons": "^4.0.16",
     "@clr/ui": "^4.0.2",
     "@fortawesome/fontawesome-free": "^5.1.0-4",
     "@ng-bootstrap/ng-bootstrap": "^7.0.0",
