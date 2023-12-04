@@ -25,7 +25,7 @@ COPY . ./
 
 RUN go build -a -o build/migrate.linux-386 -ldflags="-s -w -X main.Version=${VERSION}" -tags "$DATABASES $SOURCES" ./cmd/migrate
 
-FROM alpine:3.11
+FROM alpine:3.18.5
 
 RUN apk add --no-cache ca-certificates
 
