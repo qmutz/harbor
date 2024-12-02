@@ -42,7 +42,7 @@
     "@ngx-translate/core": "^13.0.0",
     "@ngx-translate/http-loader": "^6.0.0",
     "@types/jquery": "^2.0.41",
-    "@webcomponents/custom-elements": "^1.0.0",
+    "@webcomponents/custom-elements": "^1.5.1",
     "@webcomponents/webcomponentsjs": "^2.0.0",
     "buffer": "^5.2.1",
     "core-js": "^2.5.4",
